@@ -1,1 +1,2 @@
-# Adv_Java_HW2
+## Advanced_Java_HW2
+### concept: generic 
